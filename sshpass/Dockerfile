@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.12
 
 RUN apk --update --no-cache add sshpass openssh rsync
 
