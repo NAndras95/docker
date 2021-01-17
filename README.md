@@ -1,1 +1,5 @@
-# docker
+# Docker
+
+### Tartalom
+- aws-cli
+- sshpass
