@@ -1,6 +1,6 @@
 # Docker
 
-### Tartalom
+### Content
 - aws-cli
 - sshpass
 - nagios
