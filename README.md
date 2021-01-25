@@ -3,3 +3,4 @@
 ### Tartalom
 - aws-cli
 - sshpass
+- nagios
