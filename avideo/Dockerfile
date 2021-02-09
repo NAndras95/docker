@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-# Update SO
+# Update OS
 RUN apt-get update && apt-get upgrade -y
 
 # Install utils
