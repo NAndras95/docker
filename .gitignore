@@ -1,2 +1,4 @@
 ./chefdk/git
 ./chefdk/chef
+chefdk/chef/
+chefdk/git/
