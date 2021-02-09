@@ -4,3 +4,4 @@
 - aws-cli
 - sshpass
 - nagios
+- chefdk
