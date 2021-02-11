@@ -7,7 +7,7 @@ COPY vsftpd.conf /etc/vsftpd/vsftpd.conf
 
 EXPOSE 21 21000-21010
 
-WORKDIR /ftp/ftp
+WORKDIR /ftp
 
 ENTRYPOINT ["/bin/init.sh"]
 

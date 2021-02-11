@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker run -it -v $(pwd)/data:/ftp/ftp --workdir /root --rm myvsftpd:latest
+docker run -it -v $(pwd)/data:/ftp --workdir /root --rm myvsftpd:latest
