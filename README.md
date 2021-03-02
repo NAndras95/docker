@@ -6,3 +6,5 @@
 - nagios
 - chefdk
 - avideo
+- nginx-hello
+- vsftpd-server
